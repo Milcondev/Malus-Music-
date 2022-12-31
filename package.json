@@ -1,0 +1,22 @@
+{
+  "name": "malusmusic",
+  "version": "1.0.0",
+  "description": "Best apple Music provide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milcondev/Malus-Music.git"
+  },
+  "keywords": [
+    "Music"
+  ],
+  "author": "Milcon Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milcondev/Malus-Music/issues"
+  },
+  "homepage": "https://github.com/Milcondev/Malus-Music#readme"
+}
