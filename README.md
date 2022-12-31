@@ -1,16 +1,16 @@
-# malusmuisc.js
+# malusmuisc
 
 malusmuisc.js is a powerful Node.js module that allows you to interact with the Apple Music API very easily
 
 #### Installation
 
 ```
-npm intall malusmuisc.js
+npm intall malusmuisc
 ```
 
 ## Usage
 ```js
-const AppleMusic = require("malusmuisc.js");
+const AppleMusic = require("malusmuisc");
 
 let apple = new AppleMusic()
 
