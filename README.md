@@ -4,9 +4,9 @@ malusmuisc.js is a powerful Node.js module that allows you to interact with the 
 
 #### Installation
 
-```
+
 [npm intall malusmusic](https://www.npmjs.com/package/malusmusic)
-```
+
 
 ## Usage
 ```js
